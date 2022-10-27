@@ -32,3 +32,41 @@ li{
     text-decoration: none;
     list-style: none;
 }
+
+.header-container{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.header{
+    width: 900px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+}
+
+.info{
+    height: 300px;
+    width: 300px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 12px;
+}
+
+img{
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-height: 300px;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+}
