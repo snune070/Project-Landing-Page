@@ -127,7 +127,7 @@ button {
 
 .lower-body-container {
   height: 300px;
-  max-width: 50vh;
+  width: 900px;
   padding: 52px;
   display: flex;
   align-items: center;
@@ -139,9 +139,9 @@ button {
 .quote {
   font-size: 36px;
   font-family: italic;
-  font-weight: light;
+  font-weight: lighter;
   color: #1f2937;
-  box-sizing: inherit;
+  opacity: 0.6;
 }
 p2 {
   margin-left: auto;
@@ -176,6 +176,11 @@ p2 {
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+.author {
+  font-size: 28px;
+  font-weight: bold;
 }
 
 #last-button {
