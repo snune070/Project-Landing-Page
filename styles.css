@@ -181,6 +181,8 @@ p2 {
 #last-button {
   border: 2px solid white;
   width: 125px;
+  font-size: larger;
+  font-weight: bolder;
 }
 
 .footer {
