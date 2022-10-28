@@ -182,3 +182,16 @@ p2 {
   border: 2px solid white;
   width: 125px;
 }
+
+.footer {
+  height: 150px;
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-item {
+  color: white;
+  font-size: 16px;
+}
